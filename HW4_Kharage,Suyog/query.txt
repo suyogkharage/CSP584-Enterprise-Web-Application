@@ -1,0 +1,69 @@
+create database Exampledatabase;
+
+use Exampledatabase;
+
+Create table CustomerOrders
+(
+oid integer,
+firstName varchar(40),
+productName varchar(40),
+totalamount double,
+address varchar(40),
+creditcardnumber long,
+orderdate varchar(40),
+deliverydate varchar(40),
+zipcode integer
+); 	
+
+Create table ProductOrder
+(
+productname varchar(40),
+oid integer,
+primary key(oid)
+); 	
+
+Create table RegistrationUser
+(
+firstName varchar(40),
+lastName varchar(40),
+email varchar(40),
+userAddress varchar(40),
+userCity varchar(40),
+userState varchar(40),
+userCountry varchar(40),	
+zipcode integer,
+userId varchar(40),
+userPassword varchar(40),
+userCategory varchar(40),
+primary key(userId)
+); 	
+
+Create table Inventory
+(
+productName varchar(40),
+productPrice integer,
+currentCount integer
+);
+
+Create table product
+(
+ProductName varchar(80),
+Category varchar(40),
+ProductCondition varchar(40),
+retailer varchar(40),
+ProductImage varchar(40),
+Quantity integer,
+Price integer,
+OnSale varchar(40),
+Rebate integer
+);
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+

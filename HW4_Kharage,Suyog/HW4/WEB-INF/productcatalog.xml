@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productcatalog>
+<a_accessories>
+		<a_accessory >
+			<a_image>acc_1.jpg</a_image>
+			<a_name>Wireless Mouse</a_name>
+			<a_price>25</a_price>
+			<a_retailer>Logitech</a_retailer>	
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_2.jpg</a_image>
+			<a_name>Mobile Hard Cover</a_name>
+			<a_price>21</a_price>
+			<a_retailer>Motorola</a_retailer>
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_3.jpg</a_image>
+			<a_name>Laptop Bag</a_name>
+			<a_price>14</a_price>
+			<a_retailer>Dell</a_retailer>
+		
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_4.jpg</a_image>
+			<a_name>USB Outlet</a_name>
+			<a_price>30</a_price>
+			<a_retailer>WC</a_retailer>
+			
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_5.jpg</a_image>
+			<a_name>Selfie Stick</a_name>
+			<a_price>10</a_price>
+			<a_retailer>Gorad</a_retailer>
+			
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_6.jpg</a_image>
+			<a_name>Keyboard Protection</a_name>
+			<a_price>11</a_price>
+			<a_retailer>Hp</a_retailer>
+			
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_7.jpg</a_image>
+			<a_name>Portable Battery</a_name>
+			<a_price>28</a_price>
+			<a_retailer>Naptor</a_retailer>
+			
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_8.jpg</a_image>
+			<a_name>Printer</a_name>
+			<a_price>19</a_price>
+			<a_retailer>Epson</a_retailer>
+			
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_9.jpg</a_image>
+			<a_name>Motion Detector</a_name>
+			<a_price>21</a_price>
+			<a_retailer>Serene</a_retailer>
+			
+		</a_accessory>
+		<a_accessory >
+			<a_image>acc_10.jpg</a_image>
+			<a_name>PowerBank</a_name>
+			<a_price>30</a_price>
+			<a_retailer>Hp</a_retailer>
+			
+		</a_accessory>
+	</a_accessories>
+    <productcategory id="Watches">
+		<product>
+			<image>Watch_11.jpg</image>
+			<name>TOMMY HILFIGER x-series Watch</name>
+			<price>150</price>
+			<retailer>TOMMY HILFIGER</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>PowerBank</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Watch_12.jpg</image>
+			<name>TITAN HOLYGRAIL Watch</name>
+			<price>120</price>
+			<retailer>TITAN</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>PowerBank</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Watch_13.jpg</image>
+			<name>FOSSIL FX Watch</name>
+			<price>130</price>
+			<retailer>FOSSIL</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>PowerBank</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Watch_14.jpg</image>
+			<name>MONT BlANC B-Class Watch</name>
+			<price>210</price>
+			<retailer>MONT BLANC</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Wireless Mouse</accessory>
+				<accessory>Motion Detector</accessory>
+				<accessory>Laptop Bag</accessory>
+				<accessory>USB Outlets</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Watch_15.jpg</image>
+			<name>ROLEX X-Collection Watch</name>
+			<price>280</price>
+			<retailer>ROLEX</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Watch_16.jpg</image>
+			<name>TISSOT-TKS Watch</name>
+			<price>310</price>
+			<retailer>TISSOT</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Printer</accessory>
+				<accessory>Portable Battery</accessory>
+				</accessories>
+		</product>
+		<product>
+			<image>Watch_17.jpg</image>
+			<name>OMEGA O57 Watch</name>
+			<price>150</price>
+			<retailer>OMEGA</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Mobile Hard Cover</accessory>
+				<accessory>Printer</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Watch_18.jpg</image>
+			<name>GUCCI GRC Watch</name>
+			<price>300</price>
+			<retailer>GUCCI</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Keyboard Protection</accessory>
+				</accessories>
+		</product>
+		<product>
+			<image>Watch_19.jpg</image>
+			<name>HUAWEI H55 Watch</name>
+			<price>450</price>
+			<retailer>HUAWEI</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>USB Outlets</accessory>
+				<accessory>Laptop Bag</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Watch_20.jpg</image>
+			<name>POLICE X-GC Watch</name>
+			<price>395</price>
+			<retailer>POLICE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+	</productcategory>
+	<productcategory id="Mobiles">
+		<product>
+			<image>Mobile_21.jpg</image>
+			<name>I-PHONE 7 Mobile</name>
+			<price>700</price>
+			<retailer>APPLE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Selfie Stick</accessory>
+				<accessory>Mobile Hard Cover</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Mobile_22.jpg</image>
+			<name>I-PHONE 6s Mobile</name>
+			
+			<price>620</price>
+			<retailer>APPLE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Printer</accessory>
+				<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Mobile_23.jpg</image>
+			<name>GOOGLE PIXEL Mobile</name>
+			
+			<price>650</price>
+			<retailer>GOOGLE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Mobile_24.jpg</image>
+			<name>MOTO G5+ Mobile</name>
+			
+			<price>500</price>
+			<retailer>MOTOROLA</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Selfie Stick</accessory>
+				<accessory>Portable Battery</accessory>
+				<accessory>Printer</accessory>
+				<accessory>Mobile Hard Cover</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Mobile_25.jpg</image>
+			<name>BLACKBERRY PRIV Mobile</name>
+			
+			<price>490</price>
+			<retailer>BLACKBERRY</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Mobile_26.jpg</image>
+			<name>ONE PLUS 5 Mobile</name>
+			
+			<price>450</price>
+			<retailer>ONE PLUS</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Laptop Bag</accessory>
+				<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Mobile_27.jpg</image>
+			<name>HTC ONE Mobile</name>
+			
+			<price>420</price>
+			<retailer>HTC</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Mobile Hard Cover</accessory>
+				<accessory>Selfie Stick</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Mobile_28.jpg</image>
+			<name>LG G5+ Mobile</name>
+			
+			<price>350</price>
+			<retailer>LG</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Keyboard Protection</accessory>
+				<accessory>Printer</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Mobile_29.jpg</image>
+			<name>SAMSUNG GALAXY S2 Mobile</name>
+			
+			<price>340</price>
+			<retailer>SAMSUNG</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Wireless Mouse</accessory>
+				</accessories>
+		</product>
+		<product>
+			<image>Mobile_30.jpg</image>
+			<name>OPPO F1+ Mobile</name>
+			
+			<price>320</price>
+			<retailer>OPPO</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+	</productcategory>
+	<productcategory id="Laptops">
+		<product>
+			<image>Laptop_31.jpg</image>
+			<name>APPLE MACBOOK PRO Laptop</name>
+			
+			<price>600</price>
+			<retailer>APPLE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Keyboard Protection</accessory>
+				<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_32.jpg</image>
+			<name>DELL INSPIRON Laptop</name>
+			
+			<price>720</price>
+			<retailer>DELL</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Printer</accessory>
+				<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_33.jpg</image>
+			<name>LENOVO L5 Laptop</name>
+			
+			<price>650</price>
+			<retailer>LENOVO</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Keyboard Protection</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_34.jpg</image>
+			<name>TOSHIBA Tyron-3 Laptop</name>
+			
+			<price>580</price>
+			<retailer>TOSHIBA</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_35.jpg</image>
+			<name>HP ELiteBook 1040 Laptop</name>
+			
+			<price>630</price>
+			<retailer>HP</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_36.jpg</image>
+			<name>SAMSUNG Series 9 Laptop</name>
+			
+			<price>590</price>
+			<retailer>SAMSUNG</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Portable Battery</accessory>
+				<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_37.jpg</image>
+			<name>ASUS PC 550 Laptop</name>
+			
+			<price>560</price>
+			<retailer>ASUS</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_38.jpg</image>
+			<name>ACER BlueBook Laptop</name>
+			
+			<price>600</price>
+			<retailer>ACER</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_39.jpg</image>
+			<name>SONY VAIO Laptop</name>
+			
+			<price>550</price>
+			<retailer>SONY</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Portable Battery</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Laptop_40.jpg</image>
+			<name>MICROSOFT SURFACE PRO Laptop</name>
+			
+			<price>680</price>
+			<retailer>MICROSOFT</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+	</productcategory>
+    <productcategory id="Speakers">
+		<product>
+			<image>Speaker_home.jfif</image>
+			<name>Google Home Speaker</name>
+			
+			<price>300</price>
+			<retailer>Google</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Selfie Stick</accessory>
+				<accessory>PowerBank</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_home_mini.jfif</image>
+			<name>Google Home Mini Speaker</name>
+			
+			<price>250</price>
+			<retailer>Google</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Mobile Hard Cover</accessory>
+				<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_echo.jfif</image>
+			<name>Amazon Echo Speaker</name>
+			
+			<price>270</price>
+			<retailer>Amazon</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>USB Outlets</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_echo_dot.jfif</image>
+			<name>Amazon Echo Dot Speaker</name>
+			
+			<price>210</price>
+			<retailer>Amazon</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Mobile Hard Cover</accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory>Printer</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_45.jpg</image>
+			<name>CREATIVE 5X Speaker</name>
+			
+			<price>240</price>
+			<retailer>CREATIVE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_46.jpg</image>
+			<name>ALTEC LANSING Speaker</name>
+			
+			<price>250</price>
+			<retailer>ALTEC</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Keyboard Protection</accessory>
+				<accessory>Motion Detector</accessory>
+				<accessory>Selfie Stick</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_47.jpg</image>
+			<name>BOSE SOUNDLINK S-PRO Speaker</name>
+			
+			<price>200</price>
+			<retailer>BOSE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Portable Battery</accessory>
+				<accessory>PowerBank</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_48.jpg</image>
+			<name>AMBRANE A-BOMB Speaker</name>
+			
+			<price>320</price>
+			<retailer>AMBRANE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Laptop Bag</accessory>
+				<accessory>Selfie Stick</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_49.jpg</image>
+			<name>JBL GO Speaker</name>
+			
+			<price>350</price>
+			<retailer>JBL</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Speaker_50.jpg</image>
+			<name>MUSIC ANGEL Goosebumps Speaker</name>
+			
+			<price>310</price>
+			<retailer>MUSIC ANGEL</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+	</productcategory>
+	<productcategory id="Pettrackers">
+		<product>
+			<image>pt1.jfif</image>
+			<name>Pet1 GPS Tracker Pettracker</name>
+			
+			<price>210</price>
+			<retailer>Gorilla</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>pt2.jfif</image>
+			<name>Pet2 GPS Tracker Pettracker</name>
+			
+			<price>210</price>
+			<retailer>Gorilla</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>pt3.jfif</image>
+			<name>Pet3 GPS Tracker Pettracker</name>
+			
+			<price>210</price>
+			<retailer>Gorilla</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>pt4.jfif</image>
+			<name>Pet4 GPS Tracker Pettracker</name>
+			
+			<price>210</price>
+			<retailer>Gorilla</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+	</productcategory>
+	
+<productcategory id="Fitnesswatches">
+		<product>
+			<image>Huawei_FW.jfif</image>
+			<name>Huawei Band Fitnesswatch</name>
+			
+			<price>300</price>
+			<retailer>Huawei</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Fitbit_Charge_2.jfif</image>
+			<name>Fitbit Charge 2 Fitnesswatch</name>
+			
+			<price>250</price>
+			<retailer>Fitbit</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Fastrack_Reflex.jfif</image>
+			<name>Fastrack Reflex Fitnesswatch</name>
+			
+			<price>270</price>
+			<retailer>Fastrack</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>USB Outlets</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Garmin4.jfif</image>
+			<name>Garmin Fitnesswatch</name>
+			
+			<price>210</price>
+			<retailer>Garmin</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Fitbit_Alta.jfif</image>
+			<name>Fitbit Alta Fitnesswatch</name>
+			
+			<price>210</price>
+			<retailer>Fitbit</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Lenovo_Cardio_Plus.jfif</image>
+			<name>Lenovo Cardio Plus Fitnesswatch</name>
+			
+			<price>210</price>
+			<retailer>Lenovo</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Lenovo_Plus.jfif</image>
+			<name>Lenovo Plus Fitnesswatch</name>
+			
+			<price>210</price>
+			<retailer>Lenovo</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+	</productcategory>
+
+<productcategory id="Smartwatches">
+		<product>
+			<image>Samsung_Gear.jfif</image>
+			<name>Samsung Gear Smartwatch</name>
+			
+			<price>300</price>
+			<retailer>Samsung</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Apple_watch_3.jfif</image>
+			<name>Apple Watch Series 3 Smartwatch</name>
+			
+			<price>250</price>
+			<retailer>Apple</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Apple_watch_2.jfif</image>
+			<name>Apple Watch Series 2 Smartwatch</name>
+			
+			<price>270</price>
+			<retailer>Apple</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>USB Outlets</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Apple_watch_1.jfif</image>
+			<name>Apple Watch Series 1 Smartwatch</name>
+			
+			<price>210</price>
+			<retailer>Apple</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Equick_A1.jfif</image>
+			<name>E-Quick A1 Smartwatch</name>
+			
+			<price>210</price>
+			<retailer>E-Quick</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Ice_Age_Y1.jfif</image>
+			<name>Ice Age Y1 Smartwatch</name>
+			
+			<price>210</price>
+			<retailer>Ice Age</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory></accessory>
+				<accessory>USB Outlets</accessory>
+				<accessory></accessory>
+			</accessories>
+		</product>
+		
+	</productcategory>			
+			
+	
+	<productcategory id="Earphones">
+		<product>
+			<image>Earphone_51.jpg</image>
+			<name>BEATS GOPRO Earphone</name>
+			
+			<price>210</price>
+			<retailer>BEATS</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Earphone_52.jpg</image>
+			<name>STEAMPUNK SP Earphone</name>
+			
+			<price>180</price>
+			<retailer>STEAMPUNK</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Printer</accessory>
+				<accessory>Motion Detector</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Earphone_53.jpg</image>
+			<name>SAMSUNG Earbuds Earphone</name>
+			
+			<price>150</price>
+			<retailer>SAMSUNG</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>USB Outlets</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Earphone_54.jpg</image>
+			<name>SKULLCANDY CREATIVE Earphone</name>
+			
+			<price>170</price>
+			<retailer>SKULLCANDY</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Selfie Stick</accessory>
+				<accessory>Portable Battery</accessory>
+				<accessory>Mobile Hard Cover</accessory>
+				</accessories>
+		</product>
+		<product>
+			<image>Earphone_55.jpg</image>
+			<name>OlIVER RED PULSE Earphone</name>
+			
+			<price>110</price>
+			<retailer>OLIVER</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Earphone_56.jpg</image>
+			<name>CREATIVE GC501 Earphone</name>
+			
+			<price>130</price>
+			<retailer>CREATIVE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Selfie Stick</accessory>
+				<accessory>Wireless Mouse</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Earphone_57.jpg</image>
+			<name>AURVANA AIR Earphone</name>
+			
+			<price>140</price>
+			<retailer>AURVANA</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product>
+			<image>Earphone_58.jpg</image>
+			<name>MOCSHINO M-BEATS Earphone</name>
+			
+			<price>240</price>
+			<retailer>MOSCHINO</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Mobile Hard Cover</accessory>
+				<accessory>Keyboard Protection</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Earphone_59.jpg</image>
+			<name>CREATIVE C-Series Earphone</name>
+			
+			<price>100</price>
+			<retailer>CREATIVE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Wireless Mouse</accessory>
+				<accessory>Selfie Stick</accessory>
+			</accessories>
+		</product>
+		<product>
+			<image>Earphone_60.jpg</image>
+			<name>BEATS HEADPHONE-B Earphone</name>
+			
+			<price>280</price>
+			<retailer>BEATS</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+	</productcategory>
+	
+	<productcategory id="ExternalStorage">
+		<product id="Harddrive">
+			<image>Harddrive_61.jpg</image>
+			<name>WD MY PASSPORT 1TB</name>
+			
+			<price>400</price>
+			<retailer>WD</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product id="Harddrive">
+			<image>Harddrive_62.jpg</image>
+			<name>SEAGATE 4TB</name>
+			
+			<price>550</price>
+			<retailer>SEAGATE</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+			</accessories>
+		</product>
+		<product id="Harddrive">
+			<image>Harddrive_63.jpg</image>
+			<name>HP External HDD</name>
+			
+			<price>400</price>
+			<retailer>HP</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>USB Outlets</accessory>
+			</accessories>
+		</product>
+		<product id="Harddrive">
+			<image>Harddrive_64.jpg</image>
+			<name>WD MY BOOK 16TB</name>
+			
+			<price>650</price>
+			<retailer>WD</retailer>
+			<condition>NEW</condition>
+			<quantity>10</quantity>
+			<onsale>YES</onsale>
+			<rebate>10</rebate>
+			<accessories>
+				<accessory>Keyboard Protection</accessory>
+				<accessory>Mobile Hard Cover</accessory>
+				<accessory>Wireless Mouse</accessory>
+				<accessory>PowerBank</accessory>
+			</accessories>
+		</product>
+		<product id="MemoryCard">
+			<image>Memorycard_64.jpg</image>
+			<name>SANDISK MicroSD 32GB</name>
+			
+			<price>150</price>
+			<retailer>SANDISK</retailer>
+			
+			<accessories>
+			</accessories>
+		</product>
+		<product id="MemoryCard">
+			<image>Memorycard_65.jpg</image>
+			<name>SAMSUNG 32 GB High-Speed MicroSDHC</name>
+			
+			<price>170</price>
+			<retailer>SAMSUNG</retailer>
+			
+			<accessories>
+			</accessories>
+		</product>
+		<product id="MemoryCard">
+			<image>Memorycard_66.jpg</image>
+			<name>TRANSCEND Ultra MicroSDXC-I</name>
+			
+			<price>140</price>
+			<retailer></retailer>
+			
+			<accessories>
+				<accessory>Laptop Bag</accessory>
+			</accessories>
+		</product>
+	</productcategory>
+</productcatalog>

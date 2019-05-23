@@ -1,0 +1,79 @@
+create database Exampledatabase;
+
+use Exampledatabase;
+
+Create table CustomerOrders
+(
+oid integer,
+firstName varchar(40),
+productName varchar(40),
+totalamount double,
+address varchar(40),
+creditcardnumber long,
+orderdate varchar(40),
+deliverydate varchar(40),
+zipcode integer
+); 	
+
+Create table ProductOrder
+(
+productname varchar(40),
+oid integer,
+primary key(oid)
+); 	
+
+Create table RegistrationUser
+(
+firstName varchar(40),
+lastName varchar(40),
+email varchar(40),
+userAddress varchar(40),
+userCity varchar(40),
+userState varchar(40),
+userCountry varchar(40),	
+zipcode integer,
+userId varchar(40),
+userPassword varchar(40),
+userCategory varchar(40),
+primary key(userId)
+); 	
+
+Create table Inventory
+(
+productName varchar(40),
+productPrice integer,
+currentCount integer
+);
+
+Create table productDetail
+(
+productName varchar(80),
+productPrice integer,
+retailer varchar(80),
+currentCount integer
+);
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////
+paste catalog.xml at following path: C:\ProgramData\MySQL\MySQL Server 8.0\Uploads
+
+open my.ini file at C:\ProgramData\MySQL\MySQL Server 8.0 and set secure-file-priv=""
+
+and run below queries in workbench.
+////////////////////////////////////////////////////////////////////////////////////////////
+
+SET GLOBAL local_infile = 1;
+
+LOAD XML INFILE 'catalog.xml'
+INTO TABLE productDetail
+ROWS IDENTIFIED BY '<product>';
+
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE productDetail SET currentCount=10;
+
+ALTER TABLE productDetail
+ADD rebate integer;
+
+

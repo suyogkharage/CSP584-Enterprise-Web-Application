@@ -1,0 +1,337 @@
+<productcatalog>
+		<product>
+			<productName>TOMMY HILFIGER x-series Watch</productName>
+			<productPrice>150</productPrice>
+			<retailer>TOMMY HILFIGER</retailer>
+		</product>
+		<product>
+			<productName>TITAN HOLYGRAIL Watch</productName>
+			<productPrice>120</productPrice>
+			<retailer>TITAN</retailer>
+		</product>
+		<product>
+			<productName>FOSSIL FX Watch</productName>
+			<productPrice>130</productPrice>
+			<retailer>FOSSIL</retailer>
+		</product>
+		<product>
+			<productName>MONT BlANC B-Class Watch</productName>
+			<productPrice>210</productPrice>
+			<retailer>MONT BLANC</retailer>
+		</product>
+		<product>
+			<productName>ROLEX X-Collection Watch</productName>
+			<productPrice>280</productPrice>
+			<retailer>ROLEX</retailer>
+		</product>
+		<product>
+			<productName>TISSOT-TKS Watch</productName>
+			<productPrice>310</productPrice>
+			<retailer>TISSOT</retailer>
+		</product>
+		<product>
+			<productName>OMEGA O57 Watch</productName>
+			<productPrice>150</productPrice>
+			<retailer>OMEGA</retailer>
+		</product>
+		<product>
+			<productName>GUCCI GRC Watch</productName>
+			<productPrice>300</productPrice>
+			<retailer>GUCCI</retailer>
+		</product>
+		<product>
+			<productName>HUAWEI H55 Watch</productName>
+			<productPrice>450</productPrice>
+			<retailer>HUAWEI</retailer>
+		</product>
+		<product>
+			<productName>POLICE X-GC Watch</productName>
+			<productPrice>395</productPrice>
+			<retailer>POLICE</retailer>
+		</product>
+		<product>
+			<productName>iPHONE 7 Mobile</productName>
+			<productPrice>700</productPrice>
+			<retailer>APPLE</retailer>
+		</product>
+		<product>
+			<productName>iPHONE 6s Mobile</productName>
+			<productPrice>620</productPrice>
+			<retailer>APPLE</retailer>
+		</product>
+		<product>
+			<productName>GOOGLE PIXEL Mobile</productName>
+			<productPrice>650</productPrice>
+			<retailer>GOOGLE</retailer>
+		</product>
+		<product>
+			<productName>MOTO G5+ Mobile</productName>
+			<productPrice>500</productPrice>
+			<retailer>MOTOROLA</retailer>
+		</product>
+		<product>
+			<productName>BLACKBERRY PRIV Mobile</productName>
+			<productPrice>490</productPrice>
+			<retailer>BLACKBERRY</retailer>
+		</product>
+		<product>
+			<productName>ONE PLUS 5 Mobile</productName>
+			<productPrice>450</productPrice>
+			<retailer>ONE PLUS</retailer>
+		</product>
+		<product>
+			<productName>HTC ONE Mobile</productName>
+			<productPrice>420</productPrice>
+			<retailer>HTC</retailer>
+		</product>
+		<product>
+			<productName>LG G5+ Mobile</productName>
+			<productPrice>350</productPrice>
+			<retailer>LG</retailer>
+		</product>
+		<product>
+			<productName>SAMSUNG GALAXY S2 Mobile</productName>
+			<productPrice>340</productPrice>
+			<retailer>SAMSUNG</retailer>
+		</product>
+		<product>
+			<productName>OPPO F1+ Mobile</productName>
+			<productPrice>320</productPrice>
+			<retailer>OPPO</retailer>
+		</product>
+		<product>
+			<productName>APPLE MACBOOK PRO Laptop</productName>
+			<productPrice>600</productPrice>
+			<retailer>APPLE</retailer>
+		</product>
+		<product>
+			<productName>DELL INSPIRON Laptop</productName>
+			<productPrice>720</productPrice>
+			<retailer>DELL</retailer>
+		</product>
+		<product>
+			<productName>LENOVO L5 Laptop</productName>
+			<productPrice>650</productPrice>
+			<retailer>LENOVO</retailer>
+		</product>
+		<product>
+			<productName>TOSHIBA Tyron-3 Laptop</productName>
+			<productPrice>580</productPrice>
+			<retailer>TOSHIBA</retailer>
+		</product>
+		<product>
+			<productName>HP ELiteBook 1040 Laptop</productName>
+			<productPrice>630</productPrice>
+			<retailer>HP</retailer>
+		</product>
+		<product>
+			<productName>SAMSUNG Series 9 Laptop</productName>
+			<productPrice>590</productPrice>
+			<retailer>SAMSUNG</retailer>
+		</product>
+		<product>
+			<productName>ASUS PC 550 Laptop</productName>
+			<productPrice>560</productPrice>
+			<retailer>ASUS</retailer>
+		</product>
+		<product>
+			<productName>ACER BlueBook Laptop</productName>
+			<productPrice>600</productPrice>
+			<retailer>ACER</retailer>
+		</product>
+		<product>
+			<productName>SONY VAIO Laptop</productName>
+			<productPrice>550</productPrice>
+			<retailer>SONY</retailer>
+		</product>
+		<product>
+			<productName>MICROSOFT SURFACE PRO Laptop</productName>
+			<productPrice>680</productPrice>
+			<retailer>MICROSOFT</retailer>
+		</product>
+		<product>
+			<productName>Google Home Speaker</productName>
+			<productPrice>300</productPrice>
+			<retailer>Google</retailer>
+		</product>
+		<product>
+			<productName>Google Home Mini Speaker</productName>
+			<productPrice>250</productPrice>
+			<retailer>Google</retailer>
+		</product>
+		<product>
+			<productName>Amazon Echo Speaker</productName>
+			<productPrice>270</productPrice>
+			<retailer>Amazon</retailer>
+		</product>
+		<product>
+			<productName>Amazon Echo Dot Speaker</productName>
+			<productPrice>210</productPrice>
+			<retailer>Amazon</retailer>
+		</product>
+		<product>
+			<productName>CREATIVE 5X Speaker</productName>
+			<productPrice>240</productPrice>
+			<retailer>CREATIVE</retailer>
+		</product>
+		<product>
+			<productName>ALTEC LANSING Speaker</productName>
+			<productPrice>250</productPrice>
+			<retailer>ALTEC</retailer>
+		</product>
+		<product>
+			<productName>BOSE SOUNDLINK S-PRO Speaker</productName>
+			<productPrice>200</productPrice>
+			<retailer>BOSE</retailer>
+		</product>
+		<product>
+			<productName>AMBRANE A-BOMB Speaker</productName>
+			<productPrice>320</productPrice>
+			<retailer>AMBRANE</retailer>
+		</product>
+		<product>
+			<productName>JBL GO Speaker</productName>
+			<productPrice>350</productPrice>
+			<retailer>JBL</retailer>
+		</product>
+		<product>
+			<productName>MUSIC ANGEL Goosebumps Speaker</productName>
+			<productPrice>310</productPrice>
+			<retailer>MUSIC ANGEL</retailer>
+		</product>
+		<product>
+			<productName>Pet GPS Tracker Pettracker</productName>
+			<productPrice>210</productPrice>
+			<retailer>Gorilla</retailer>
+			</product>
+		<product>
+			<productName>Pet GPS Tracker Pettracker</productName>
+			<productPrice>210</productPrice>
+						<retailer>Gorilla</retailer>
+			</product>
+		<product>
+			<productName>Pet GPS Tracker Pettracker</productName>
+			<productPrice>210</productPrice>
+			<retailer>Gorilla</retailer>
+			</product>
+		<product>
+			<productName>Pet GPS Tracker Pettracker</productName>
+			<productPrice>210</productPrice>
+			<retailer>Gorilla</retailer>
+			</product>
+		<product>
+			<productName>Huawei Band Fitnesswatch</productName>
+			<productPrice>300</productPrice>
+			<retailer>Huawei</retailer>
+			</product>
+		<product>
+			<productName>Fitbit Charge 2 Fitnesswatch</productName>
+			<productPrice>250</productPrice>
+			<retailer>Fitbit</retailer>
+			</product>
+		<product>
+			<productName>Fastrack Reflex Fitnesswatch</productName>
+			<productPrice>270</productPrice>
+			<retailer>Fastrack</retailer>
+			</product>
+		<product>
+			<productName>Garmin Fitnesswatch</productName>
+			<productPrice>210</productPrice>
+			<retailer>Garmin</retailer>
+			</product>
+		<product>
+			<productName>Fitbit Alta Fitnesswatch</productName>
+			<productPrice>210</productPrice>
+						<retailer>Fitbit</retailer>
+			</product>
+		<product>
+			<productName>Lenovo Cardio Plus Fitnesswatch</productName>
+			<productPrice>210</productPrice>
+						<retailer>Lenovo</retailer>
+			</product>
+		<product>
+			<productName>Lenovo Plus Fitnesswatch</productName>
+			<productPrice>210</productPrice>
+			<retailer>Lenovo</retailer>
+			</product>
+		<product>
+			<productName>Samsung Gear Smartwatch</productName>
+			<productPrice>300</productPrice>
+			<retailer>Samsung</retailer>
+			</product>
+		<product>
+		<productName>Apple Watch Series 3 Smartwatch</productName>
+		<productPrice>250</productPrice>
+			<retailer>Apple</retailer>
+		</product>
+		<product>
+		<productName>Apple Watch Series 2 Smartwatch</productName>
+			<productPrice>270</productPrice>
+						<retailer>Apple</retailer>
+			</product>
+		<product>
+			<productName>Apple Watch Series 1 Smartwatch</productName>
+			<productPrice>210</productPrice>
+						<retailer>Apple</retailer>
+			</product>
+		<product>
+			<productName>E-Quick A1 Smartwatch</productName>
+			<productPrice>210</productPrice>
+			<retailer>E-Quick</retailer>
+			</product>
+		<product>
+			<productName>Ice Age Y1 Smartwatch</productName>
+			<productPrice>210</productPrice>
+						<retailer>Ice Age</retailer>
+			</product>
+		<product>
+			<productName>BEATS GOPRO Earphone</productName>
+			<productPrice>210</productPrice>
+			<retailer>BEATS</retailer>
+			</product>
+		<product>
+			<productName>STEAMPUNK SP Earphone</productName>
+			<productPrice>180</productPrice>
+			<retailer>STEAMPUNK</retailer>
+			</product>
+		<product>
+			<productName>SAMSUNG Earbuds Earphone</productName>
+			<productPrice>150</productPrice>
+						<retailer>SAMSUNG</retailer>
+			</product>
+		<product>
+			<productName>SKULLCANDY CREATIVE Earphone</productName>
+			<productPrice>170</productPrice>
+			<retailer>SKULLCANDY</retailer>
+			</product>
+		<product>
+			<productName>OlIVER RED PULSE Earphone</productName>
+			<productPrice>110</productPrice>
+			<retailer>OLIVER</retailer>
+			</product>
+		<product>
+			<productName>CREATIVE GC501 Earphone</productName>
+			<productPrice>130</productPrice>
+			<retailer>CREATIVE</retailer>
+			</product>
+		<product>
+			<productName>AURVANA AIR Earphone</productName>
+			<productPrice>140</productPrice>
+			<retailer>AURVANA</retailer>
+			</product>
+		<product>
+			<productName>MOCSHINO M-BEATS Earphone</productName>
+			<productPrice>240</productPrice>
+			<retailer>MOSCHINO</retailer>
+			</product>
+		<product>
+			<productName>CREATIVE C-Series Earphone</productName>
+			<productPrice>100</productPrice>
+			<retailer>CREATIVE</retailer>
+			</product>
+		<product>
+			<productName>BEATS HEADPHONE-B Earphone</productName>
+			<productPrice>280</productPrice>
+			<retailer>BEATS</retailer>
+			</product>
+</productcatalog>
